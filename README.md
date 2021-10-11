@@ -8,4 +8,4 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9e997cab-522f-4bdd-89a5-677ed1880f5a/deploy-status)](https://app.netlify.com/sites/plant13/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e997cab-522f-4bdd-89a5-677ed1880f5a/deploy-status)](https://app.netlify.com/sites/gbplant/deploys)
