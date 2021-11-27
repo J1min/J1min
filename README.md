@@ -4,7 +4,7 @@ stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=tru
 
 
 
-  <div align="center">
+  <div>
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ1min&count_bg=%2383EBE7&title_bg=%23EB9BDB&icon=smugmug.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
   
