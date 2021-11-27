@@ -137,14 +137,6 @@ stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=tru
     height="7%"
   />
 </a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-    alt="dotnet"
-    width="7%"
-    height="7%"
-  />
-</a>
 <a href="https://www.figma.com/" target="_blank">
   <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
