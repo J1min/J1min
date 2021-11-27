@@ -1,8 +1,13 @@
 ![Anurag's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  <div align="center">
+
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ1min&count_bg=%2383EBE7&title_bg=%23EB9BDB&icon=smugmug.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
+  
 <a href="https://www.instagram.com/iamjimni/?hl=ko" target="_blank">
   <img
     src="https://mblogthumb-phinf.pstatic.net/MjAyMTExMjdfMjE4/MDAxNjM3OTk0NTc1MzE0.RvFbHCarVznsUxqSDZeWETCG7xYvbTlcyLqITASpiBEg.n2jy25xLg1tB-0gUCgelwvYuanpDMGwavsuI2dBQBYUg.PNG.mabee12/unnamed-02.png?type=w800"
@@ -19,9 +24,12 @@ stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=tru
     height="8%"
   />
 </a>
-</div>
+
 <br />
+
+
 <br />
+
 
 <a href="https://www.w3.org/html/" target="_blank">
   <img
@@ -153,9 +161,10 @@ stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=tru
     height="7%"
   />
 </a>
+</div>
 
 <!-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ1min&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="7%" height="7%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="7%" height="7%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="7%" height="7%">]()
