@@ -1,5 +1,27 @@
+![Anurag's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=true&theme=radical)
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/iamjimni/?hl=ko" target="_blank">
+  <img
+    src="https://mblogthumb-phinf.pstatic.net/MjAyMTExMjdfMjE4/MDAxNjM3OTk0NTc1MzE0.RvFbHCarVznsUxqSDZeWETCG7xYvbTlcyLqITASpiBEg.n2jy25xLg1tB-0gUCgelwvYuanpDMGwavsuI2dBQBYUg.PNG.mabee12/unnamed-02.png?type=w800"
+    alt="instagram"
+    width="7%"
+    height="7%"
+  />
+</a>
+<a href="https://gmail.com/" target="_blank">
+  <img
+    src="https://mblogthumb-phinf.pstatic.net/MjAyMTExMjdfMTg2/MDAxNjM3OTkzOTYxNDc5.AQKEQNqx8JQ_sTEzOptbnCXWQ_7dypvuQdKSwYvABrcg.I_KwCCGdI2mpo8jRVYILXTqcax1myUn55317etUYA-Yg.PNG.mabee12/email%2Bgmail%2Bmail%2Bmessage%2Bservice%2Bicon-1320183404410750774_512.png?type=w800"
+    alt="discord"
+    width="8%"
+    height="8%"
+  />
+</a>
+</div>
+<br />
+<br />
 
 <a href="https://www.w3.org/html/" target="_blank">
   <img
@@ -17,10 +39,7 @@
     height="7%"
   />
 </a>
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  target="_blank"
->
+<a href="https://https://www.w3schools.com/js" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
@@ -60,7 +79,13 @@
     height="7%"
   />
 </a> -->
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="7%" height="7%"> </a>
+<a href="https://nodejs.org/" target="_blank"
+  ><img
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+    width="7%"
+    height="7%"
+  />
+</a>
 <br />
 <!--   <a href="https://expressjs.com" target="_blank">
   <img
@@ -70,7 +95,14 @@
     height="7%"
   />
 </a> -->
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    alt="mysql"
+    width="40"
+    height="40"
+  />
+</a>
 
 <a href="https://www.mongodb.com/" target="_blank">
   <img
@@ -80,7 +112,14 @@
     height="7%"
   />
 </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="7%" height="7%"/> </a>
+<a href="https://www.docker.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+    alt="docker"
+    width="7%"
+    height="7%"
+  />
+</a>
 
 <a href="https://git-scm.com/" target="_blank">
   <img
@@ -116,13 +155,9 @@
 </a>
 
 <!-- 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ1min&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="7%" height="7%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="7%" height="7%">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="7%" height="7%">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="7%" height="7%">]() -->
-
-
-
-
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="7%" height="7%">]() 
+-->
