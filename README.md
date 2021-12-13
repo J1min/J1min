@@ -79,7 +79,7 @@ stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=tru
     height="7%"
   />
 </a>
-  <a href="https://sass-lang.com" target="_blank">
+  <a href="https://jquery.com/" target="_blank">
   <img src="https://postfiles.pstatic.net/MjAyMTExMjhfMTY2/MDAxNjM4MTA0OTA3MDQ5.95aQm566YHP902IlZNDCSv60HqMuzhrw1iEOEC88g2Ig.bTgGks_vgjyLVaC2DZSp5Ud-RceaBBHOJmEepFvP4f0g.PNG.mabee12/jquery_plain_wordmark_logo_icon_146445.png?type=w966"
     alt="sass"
     width="7%"
