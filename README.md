@@ -114,8 +114,8 @@ stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=tru
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
     alt="mysql"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
 </a>
 
