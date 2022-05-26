@@ -12,7 +12,6 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=true&theme=radical)
 
 
 
@@ -34,13 +33,12 @@
 <br>
 <br>
 <br>
-![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=true&theme=radical)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J1min&&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-  <div>
+ <div>
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJ1min&count_bg=%2383EBE7&title_bg=%23EB9BDB&icon=smugmug.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
   
