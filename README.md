@@ -3,6 +3,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact&thema=merko" style="width:42%;"/>
       <div align="center">
            <h6><b>Stack</b></h6>
+        <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    alt="react"
+    width="70"
+    height="70"
+    width="50"
+    height="50"
+  />
       </div>
     </td>
     <td valign="top" width="50%">
@@ -21,7 +29,6 @@
   
   
   </div>
-
 
 </div>
 
