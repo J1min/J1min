@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J1min&theme=radical&show_icons=true" style="width:50%;"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=J1min&theme=radical&show_icons=true" style="width:50%;"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact&thema=merko" style="width:42%;"/>
       <div align="center">
            <h6><b>Stack</b></h6>
