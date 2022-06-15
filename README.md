@@ -1,8 +1,17 @@
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=J1min&theme=radical&show_icons=true" style="width:50%;"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact&thema=merko" style="width:42%;"/>
-      <div align="center">
-           <h6><b>Stack</b></h6>
+    
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j1min)](https://solved.ac/j1min/)
+      
+  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact&thema=merko" style="width:42%;"/> <br/>
+  
+  <div align="center">
+        
+        
+   <h6><b>Stack</b></h6>
         <a href="https://www.w3.org/html/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
