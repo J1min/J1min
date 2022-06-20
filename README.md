@@ -2,12 +2,14 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=J1min&theme=radical&show_icons=true" style="width:50%;"/> -->
     
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j1min)](https://solved.ac/j1min/)
       
   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact&thema=merko" style="width:42%;"/> <br/>
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j1min)](https://solved.ac/j1min/)
+    
+    
   <div align="center">
         
         
