@@ -3,7 +3,7 @@
     
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j1min)](https://solved.ac/j1min/)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact&thema=merko" style="width:42%;"/> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1min&layout=compact&thema=merko" /> <br/>
       
    <img
       src="https://ghchart.rshah.org/j1min"
